@@ -36,7 +36,7 @@ Bu projede veri ön işleme aşamaları ve model eğitimi sonucunda 0.9662 başa
 Emircan Bağdu - B200109041
 </h1>
 <h2>Kullandığımız veri seti drive linki</h2>
-Pozitif : https://drive.google.com/drive/folders/1w9Jz7Ptjt5i4JqaVjHRqNBdveDarC7Hz?usp=sharing
+Pozitif : https://drive.google.com/drive/folders/1w9Jz7Ptjt5i4JqaVjHRqNBdveDarC7Hz?usp=sharing <br>
 Negatif : https://drive.google.com/drive/folders/1NJQIZRQXvU2Op8ydXIjTrDQS2Uj2vuOH?usp=sharing
 
 
