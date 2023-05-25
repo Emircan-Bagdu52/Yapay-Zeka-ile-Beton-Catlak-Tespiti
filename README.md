@@ -25,7 +25,8 @@ Model yapımız, girdi olarak aldığımız görüntüleri Convolutional katman�
 
 <h2>Model Değerlendirilmesi</h2>
 Karmaşıklık matrisi veri setindeki var olan durum ile sınıflandırma modelimizin doğru ve yanlış tahminlerinin sayısını tablo olarak göstermektedir. Accuracy (Doğruluk): Sistemde doğru olarak yapılan tahminlerin tüm tahminlere oranıdır.
-![image](https://github.com/Emircan-Bagdu52/yapayzekaproje/assets/95845060/204b0300-8621-413e-a9c7-707f9a75ad8f)
+
+![Ekran Alıntısı](https://github.com/Emircan-Bagdu52/yapayzekaproje/assets/95845060/e9d55853-120f-42f6-a4ad-21eb5460bcc1)
 
 
 <h2>Sonuç</h2>
