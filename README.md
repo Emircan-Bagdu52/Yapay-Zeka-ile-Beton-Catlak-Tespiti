@@ -32,6 +32,9 @@ Karmaşıklık matrisi veri setindeki var olan durum ile sınıflandırma modeli
 
 <h2>Sonuç</h2>
 Bu projede veri ön işleme aşamaları ve model eğitimi sonucunda 0.9662 başarı oranı elde edilmiştir.
+<h1>Gökhan Topdanış – B200109039
+Emircan Bağdu - B200109041
+</h1>
 
 
 
